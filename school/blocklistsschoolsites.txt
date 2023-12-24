@@ -1,10 +1,10 @@
-# Title: Block School Proxys
-# Description: Blocks proxys that are used at school 
+# Title: SCH-PROXYS: Securing Education Environments with a Powerful DNS Blocklist
+# Description: SCH-PROXYS is a DNS blocklist meticulously designed to fortify educational environments against proxy bypass attempts. 
 # Homepage: https://github.com/supspaceyt/dns-blocklists
 # Issues: https://github.com/supspaceyt/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 23 Dec 2023 11:38 UTC
-# Version: 2023.1223.1138.34
+# Last modified: 23 Dec 2023 12:01 UTC
+# Version: SentinelShield v1.0
 # Syntax: Domains
 #
 mathlearningcenter.design
