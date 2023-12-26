@@ -1119,3 +1119,6 @@ urmom.gq
 sqeven.workers.dev
 sfzanghao.workers.dev
 xianyu1.workers.dev
+sh1mmer.me
+osu.bio 
+dl.osu.bio
